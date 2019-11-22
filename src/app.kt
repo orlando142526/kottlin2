@@ -10,5 +10,8 @@ fun main() {
     println(miComputador.toString())
     var mouseSorpresa = Mouse("ay")
     println(mouseSorpresa.tipo)
+
+    //comentario
 }
+
 
